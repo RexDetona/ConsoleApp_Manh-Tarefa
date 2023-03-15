@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\bin\Debug\net6.0\ConsoleApp_Manha.exe
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\bin\Debug\net6.0\ConsoleApp_Manha.deps.json
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\bin\Debug\net6.0\ConsoleApp_Manha.runtimeconfig.json
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\bin\Debug\net6.0\ConsoleApp_Manha.dll
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\bin\Debug\net6.0\ConsoleApp_Manha.pdb
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.AssemblyInfo.cs
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.dll
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\refint\ConsoleApp_Manha.dll
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.pdb
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ConsoleApp_Manha.genruntimeconfig.cache
+C:\Users\PC\Desktop\Matheus Arquivos\ConsoleApp_Manha-master\ConsoleApp_Manh-Tarefa\ConsoleApp_Manha\obj\Debug\net6.0\ref\ConsoleApp_Manha.dll
